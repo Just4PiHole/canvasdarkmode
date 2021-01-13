@@ -32,16 +32,16 @@
     {
       "css": ["canvas.css"],
       "js": ["canvas.js"],
-       "matches": ["https://*.fsu.edu/*"]
+       "matches": ["https://*q.utoronto.ca/*"]
     },
     {
 
       "css": ["webwork.css"],
-      "matches": ["https://webwork.uncc.edu/*"]
+      "matches": ["https://webworkq.act.utoronto.ca//*"]
     },
     {
       "css": ["webauth.css"],
-      "matches": ["https://webauth.uncc.edu/*"]
+      "matches": ["https://idpz.utorauth.utoronto.ca/*"]
     }]
 
 }
